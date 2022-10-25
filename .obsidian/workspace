@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "620d9f0337cc39c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d72ea31d95bf4e3a",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fee8844d6cf72317",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f04e42d4ae0052c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef10e9b8f7f4ff45",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e0c03d6f26111843",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "interface",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e917db293b5913f6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3b9d7701328e54d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5c48a9f1d46ae3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb36255751af87dd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1b6af17477cf92c1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f4b11c439a21b0d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ce0cc2f77b2e1669",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d72ea31d95bf4e3a",
+  "lastOpenFiles": [
+    "Ленивая инициализация (by lazy).md",
+    "Отложенная инициализация.md",
+    "Модификатор lateinit.md",
+    "Котлин.md",
+    "Приведение типов.md",
+    "Оператор is.md",
+    "Наследование в Kotlin.md",
+    "Основы классов в Kotlin.md",
+    "Множественное наследование.md",
+    "Interface.md"
+  ]
+}
