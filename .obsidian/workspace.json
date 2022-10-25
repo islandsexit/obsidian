@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Конфигурационный файл.md",
+                "file": "Nginx.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,10 +56,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "<дире",
+                "query": "Nginx",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Конфигурационный файл.md",
+                "file": "Nginx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Конфигурационный файл.md",
+                "file": "Nginx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Конфигурационный файл.md"
+                "file": "Nginx.md"
               }
             }
           },
@@ -159,8 +159,8 @@
   },
   "active": "7f2f14b7e2a83187",
   "lastOpenFiles": [
-    "Руководство по настройке Nginx.md",
     "Конфигурационный файл.md",
+    "Руководство по настройке Nginx.md",
     "Ошибки Nginx.md",
     "Nginx.md",
     "Основные команды управления.md",
